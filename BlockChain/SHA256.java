@@ -25,11 +25,11 @@ public class SHA256 {
 			throw new RuntimeException(e);
 		}
 	}
-    public static void main(String[] args) {
-        //Generate Different key
-        System.out.println(generateHash("Hello World!"));
-        System.out.println(generateHash("Hello World"));
-    }   
+//    public static void main(String[] args) {
+//        //Generate Different key
+//        System.out.println(generateHash("Hello World!"));
+//        System.out.println(generateHash("Hello World"));
+//    }   
 
 }
 
